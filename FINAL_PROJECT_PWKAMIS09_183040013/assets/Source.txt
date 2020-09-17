@@ -1,0 +1,35 @@
+
+
+img
+portfolio1 https://unsplash.com/photos/KE0nC8-58MQ
+portfolio2 https://unsplash.com/photos/nyL-rzwP-Mk
+portfolio3 https://unsplash.com/photos/4lyOcRmx29g
+portfolio4 https://unsplash.com/photos/D5OzyJ71mLI
+portfolio5  https://unsplash.com/photos/lW-xLYqGOuA
+portfolio6  https://unsplash.com/photos/oIxXH-kp2ss
+
+Slider 1 https://unsplash.com/photos/95YRwf6CNw8
+
+https://www.dropbox.com/sh/marc9mhm4vof6a2/AAALK_q_XkAKajJ5m73ok6osa?dl=0&file_su
+bpath=%2Fimg&preview=img-ngobar-8.zip
+
+ICons
+https://www.flaticon.com/free-icon/joystick_808513#term=games&page=1&position=10
+https://www.flaticon.com/free-icon/desktop_165231#term=desktop&page=1&position=8
+https://www.flaticon.com/free-icon/smartphone_149384#term=mobile&page=1&position=1
+https://www.flaticon.com/free-icon/global_1231223#term=global&page=1&position
+https://upload.wikimedia.org/wikipedia/id/5/51/Traveloka_Primary_Logo.png
+https://www.dropbox.com/sh/dokhf3lhb43gcrp/
+AAAl_gSser8rYRxsV9iFrhB3a?dl=0&file_subpath=%2Fimg%2Fclients&preview=img-ngobar%236.zip
+
+fonts
+    https://fonts.googleapis.com/css?family=Roboto+Slab
+    https://fonts.googleapis.com/css?family=Pacifico
+    https://fonts.googleapis.com/css?family=Fira+Sans
+
+
+    <!-- icons -->
+    https://use.fontawesome.com/releases/v5.6.1/css/all.css" 
+
+
+        https://fonts.googleapis.com/icon?family=Material+Icons
